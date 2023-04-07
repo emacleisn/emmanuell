@@ -1,0 +1,2 @@
+# emmanuell
+jogo da adivinhação
